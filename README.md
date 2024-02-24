@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TGfusion
 - 👀 I’m interested in Games
-- 🌱 I’m currently learning Auto CAD
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
