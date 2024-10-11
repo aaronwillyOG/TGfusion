@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TGfusion
-- 👀 I’m interested in Games
+- 👋 Hi, I’m Aaron
+- 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
